@@ -14,7 +14,7 @@ const Discover = () => {
   }
 
   if (error) {
-    return <Error>{error.message}</Error>;
+    return <Error />;
   }
 
   return (
