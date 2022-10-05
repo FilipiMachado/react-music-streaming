@@ -1,5 +1,19 @@
-import React from 'react';
+import { useState, useEffect } from "react";
+import axios from "axios";
+import { useSelector } from "react-redux";
 
-const CountryTracks = () => <div>CountryTracks</div>;
+import { Error, Loader, SongCard } from "../components";
 
-export default CountryTracks;
+const AroundYou = () => {
+  const [country, setCountry] = useState("");
+  const [loading, setLoading] = useState(true);
+  const { activeSong, isPlaying } = useSelector((state) => state.player);
+
+  return (
+    <div>
+      <div>1</div>
+    </div>
+  );
+};
+
+export default AroundYou;
