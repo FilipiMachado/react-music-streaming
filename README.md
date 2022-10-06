@@ -2,6 +2,10 @@
   <a href="https://imgur.com/fLfaBK4"><img src="https://imgur.com/fLfaBK4.png" title="source: imgur.com" /></a>
 </p>
 
+<h1>
+  If you wanna try: https://musiq-streaming.netlify.app/
+</h1>
+
 ## 💻 Project
 
 The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
