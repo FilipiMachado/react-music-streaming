@@ -1,10 +1,10 @@
+<h1>
+  If you wanna test: https://musiq-streaming.netlify.app/
+</h1>
+
 <p align="center">
   <a href="https://imgur.com/fLfaBK4"><img src="https://imgur.com/fLfaBK4.png" title="source: imgur.com" /></a>
 </p>
-
-<h1>
-  If you wanna try: https://musiq-streaming.netlify.app/
-</h1>
 
 ## 💻 Project
 
