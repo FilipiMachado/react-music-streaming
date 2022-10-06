@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://imgur.com/JZ8mYYm"><img src="https://imgur.com/JZ8mYYm.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/fLfaBK4"><img src="https://imgur.com/fLfaBK4.png" title="source: imgur.com" /></a>
 </p>
 
 ## 💻 Project
@@ -7,7 +7,10 @@
 The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
 
 <p align="center">
-  <a href="https://imgur.com/2vfvOAV"><img src="https://imgur.com/2vfvOAV.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/czAhpVT"><img src="https://imgur.com/czAhpVT.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/p2wIuYG"><img src="https://imgur.com/p2wIuYG.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/FSpWjD5"><img src="https://imgur.com/FSpWjD5.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/gWyPekI"><img src="https://imgur.com/gWyPekI.png" title="source: imgur.com" /></a>
 
 <br>
 
