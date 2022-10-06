@@ -9,6 +9,20 @@ const AroundYou = () => {
   const [loading, setLoading] = useState(true);
   const { activeSong, isPlaying } = useSelector((state) => state.player);
 
+  useEffect(() => {
+    axios
+      .get(
+        `https://geo.ipify.org/api/v2/country?apiKey=at_Za1YfHPu9qtCqzvsOmWYson3UGb1f`
+      )
+      .then((res) => {
+        setCountry(res?.data?.location?.country);
+      })
+      .catch((err) => {
+        console.log(err);
+      })
+      .finally(() => setLoading(false));
+  }, [country]);
+
   return (
     <div>
       <div>1</div>
