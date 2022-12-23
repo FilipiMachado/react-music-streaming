@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-The project is a AI image generator. You can describe an image using a input and generate a image from it.
+The project is a music streaming platform.
 
 <p align="center">
   <a href="https://imgur.com/czAhpVT"><img src="https://imgur.com/czAhpVT.png" title="source: imgur.com" /></a>
