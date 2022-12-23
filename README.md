@@ -1,7 +1,3 @@
-<h1>
-  If you wanna test: https://musiq-streaming.netlify.app/
-</h1>
-
 ## 💻 Project
 
 The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
