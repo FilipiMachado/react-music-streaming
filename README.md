@@ -1,12 +1,16 @@
+<p align="center">
+  <a href="https://imgur.com/fLfaBK4"><img src="https://imgur.com/fLfaBK4.png" title="source: imgur.com" /></a>
+</p>
+
 ## 💻 Project
 
-The project is a music streaming platform. There is a music player included and search/filters to find your favorite music.
+The project is a AI image generator. You can describe an image using a input and generate a image from it.
 
 <p align="center">
-  <a href="https://imgur.com/f0W1cyA"><img src="https://imgur.com/f0W1cyA.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/q7oCCfV"><img src="https://imgur.com/q7oCCfV.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/IZPApOD"><img src="https://imgur.com/IZPApOD.png" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/evz4Wlh"><img src="https://imgur.com/evz4Wlh.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/czAhpVT"><img src="https://imgur.com/czAhpVT.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/p2wIuYG"><img src="https://imgur.com/p2wIuYG.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/FSpWjD5"><img src="https://imgur.com/FSpWjD5.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/gWyPekI"><img src="https://imgur.com/gWyPekI.png" title="source: imgur.com" /></a>
 
 <br>
 
